@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/arcgis-sanclemente",
   "title": "Arcgis Sanclemente",
   "description": "City of San Clemente GIS — San Clemente, California open geospatial data (ArcGIS).",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "websiteUrl": "https://pipeworx.io/packs/arcgis-sanclemente",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-arcgis-sanclemente",
